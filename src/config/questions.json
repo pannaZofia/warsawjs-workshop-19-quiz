@@ -1,0 +1,41 @@
+[
+  {
+    "question": "Jaki znacznik odpowiada za pogrubienie tekstu?",
+    "answers": [
+      "<li>",
+      "<br>",
+      "<strong>",
+      "<em>"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Co robi znacznik <br>?",
+    "answers": [
+      "Wyrównuje tekst do prawej strony",
+      "Wstawia nową linię",
+      "Jest pomocny przy tworzeniu formularzy",
+      "Sprawia, że tekst jest pochylony"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Jak stworzyć nowy paragraf w HTML?",
+    "answers": [
+      "Używając <p>",
+      "Należy dodać nowy <div>",
+      "Nie da się",
+      "Używając <br>"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Co dziś na obiad?",
+    "answers": [
+      "Naleśniki",
+      "Kotlet schabowy",
+      "Falafel"
+    ],
+    "answer": 2
+  }
+]
